@@ -3,6 +3,6 @@ pr-checks-test
 
 test 1
 
-test 2
+test 42
 
 test 3
